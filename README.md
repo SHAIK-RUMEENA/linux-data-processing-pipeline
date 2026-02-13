@@ -1,3 +1,9 @@
+## Author
+SHAIK RUMEENA  
+GitHub: https://github.com/SHAIK-RUMEENA  
+LinkedIn: www.linkedin.com/in/shaik-rumeena-056419373
+
+
 # Linux Data Processing Pipeline (Bash)
 
 This project demonstrates a Bash-based automation pipeline that processes structured employee data using Linux text-processing utilities (grep, sed, awk, cut) to filter, transform, and generate formatted salary reports.
