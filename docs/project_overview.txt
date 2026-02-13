@@ -1,0 +1,1 @@
+This project demonstrates Linux pipeline processing using grep, cut, sed, and awk for automated report generation.

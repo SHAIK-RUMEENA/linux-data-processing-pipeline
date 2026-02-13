@@ -1,0 +1,3 @@
+Employee: John - Salary: 50000
+Employee: Bob - Salary: 60000
+Employee: Sam - Salary: 70000
